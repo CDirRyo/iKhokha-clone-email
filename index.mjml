@@ -1,0 +1,95 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-breakpoint width="640px" />
+        <mj-attributes>
+            <mj-section padding="0" background-color="#242729"/>
+            <mj-image padding="0" />
+            <mj-text padding="0" font-family="Arial, sans-serif" align="center" color="white" />
+            <mj-button padding="0"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!--Decoration-->
+        <mj-section border-radius="10px 10px 0 0">
+            <mj-column padding="20px 15px 10px 15px">
+                <mj-image src="https://hs-6412394.f.hubspotemail.net/hub/6412394/hubfs/iK-Flyer-Black-Friday-Pattern-String.png?upscale=true&upscale=true&name=iK-Flyer-Black-Friday-Pattern-String.png" />
+            </mj-column>
+        </mj-section>
+        <!--Logo-->
+        <mj-section>
+            <mj-column padding="25px 37.5% 20px 37.5%">
+                <mj-image src="https://hs-6412394.f.hubspotemail.net/hub/6412394/hubfs/5d21c378946d4073356a5937_logo_ikhokha.svg" alt="iKhokha Logo" />
+            </mj-column>
+        </mj-section>
+        <!--Hero-->
+        <mj-section>
+            <mj-column padding="15px 5% 10px 5%">
+                <mj-image src="https://hs-6412394.f.hubspotemail.net/hub/6412394/hubfs/iK_Flyer_Black-Flyday_text_Option-2_v2.png?upscale=true&upscale=true&name=iK_Flyer_Black-Flyday_text_Option-2_v2.png" />
+            </mj-column>
+        </mj-section>
+        <!--Text and Button-->
+        <mj-section>
+            <mj-column padding="20px 30px 30px 30px">
+                <mj-text font-size="25px" line-height="150%" font-weight="bold" padding-bottom="25px">
+                    Hi there,
+                </mj-text>
+                <mj-text font-size="18px" line-height="150%">
+                    You’re already getting bombarded with Black Friday emails.<br>So, we’ll keep it short and sweet:<br><br><b>Get our fastest, smartest card machine for only R1549</b> – the lowest price ever for the iK Flyer. But hurry: there are <b>only 100 on sale!</b>
+                </mj-text>
+                <mj-button padding="25px 0 15px 0" background-color="#ffcd00" font-size="15px" font-weight="bold" color="#000" border-radius="16px" inner-padding="15px 25px">
+                    Claim your discount
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!--Big Image-->
+        <mj-section>
+            <mj-column >
+                <mj-image src="https://hs-6412394.f.hubspotemail.net/hub/6412394/hubfs/iK-Flyer-Black-Friday_Image_Option-02_V2.png?upscale=true&upscale=true&name=iK-Flyer-Black-Friday_Image_Option-02_V2.png" alt="" />
+            </mj-column>
+        </mj-section>
+        <!--Text and Buttons-->
+        <mj-section border-radius="0 0 10px 10px">
+            <mj-column padding-bottom="10px">
+                <mj-text font-size="18px" line-height="150%" padding="40px 30px 10px 30px" padding-top="40px" padding-bottom="20px">
+                    <b>Prefer doing it yourself?</b><br>
+                    Use the code below to claim your deal on our site & watch your price drop at checkout.
+                </mj-text>
+                <mj-button line-height="34px" href="https://www.ikhokha.com/shop/card-machines/ik-flyer-promo?BlackFridayMailer%3Futm_source=black%20friday&utm_campaign=iK%20Black%20Flyday%202022&utm_source=hs_email&utm_medium=email" border="2px dashed #ffcd00" background-color="#242729" font-size="30px" inner-padding="15px 20px" font-weight="bold" border-radius="0" font-family="Arial, sans-serif" padding-bottom="25px">
+                    BlackFriday22
+                </mj-button>
+                <mj-button padding-bottom="15px" padding-top="5px" color="#000" font-weight="bold" border-radius="16px" line-height="17px" font-size="15px" inner-padding="15px 25px" background-color="#ffcd00" href="https://www.ikhokha.com/shop/card-machines/ik-flyer-promo?BlackFridayMailer%3Futm_source=black%20friday&utm_campaign=iK%20Black%20Flyday%202022&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--YkfkeNLPawKytzIPOtWcnOP60eZy7F8CCS-iPBto_CQFo1SGOUFbcWgauLXkcPH82YUBc">
+                    Shop now
+                </mj-button>
+                <mj-text padding="20px 30px" font-weight="bold" font-size="18px" line-height="150%" padding-bottom="20px">
+                    Let's rise,<br>The iKhokha Team
+                </mj-text>
+                <mj-text padding="0px 30px 20px 30px" font-size="13px" line-height="150%" >
+                    Offer valid from 25 Nov 2022 – 28 Nov 2022, while stocks last.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Footer-->
+        <mj-section background-color="#fff" padding-top="10px">
+            <mj-column width="75%" padding="10px 20px" vertical-align="middle">
+                <mj-image align="left" src="https://hs-6412394.f.hubspotemail.net/hub/6412394/hubfs/iK_Logo_Black_Yellow.png?upscale=true&width=244&upscale=true&name=iK_Logo_Black_Yellow.png" alt="logo" width="122px"/>
+            </mj-column>
+            <mj-column width="25%" vertical-align="middle">
+                <mj-text align="left" padding="10px 20px 10px 20px" font-size="0" line-height="0">
+                    <a href="#" style="Margin:8px 5px"><img src="https://hs-6412394.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.114/img/hs_default_template_images/modules/Follow+Me+-+Email/facebook_circle_grey.png" width="25"/></a>
+                    <a href="#" style="Margin:8px 5px"><img src="https://hs-6412394.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.114/img/hs_default_template_images/modules/Follow+Me+-+Email/instagram_circle_grey.png" width="25"/></a>
+                    <a href="#" style="Margin:8px 5px"><img src="https://hs-6412394.f.hubspotemail.net/hs/hsstatic/TemplateAssets/static-1.114/img/hs_default_template_images/modules/Follow+Me+-+Email/website_circle_grey.png" width="25"/></a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff" padding="10px 20px">
+            <mj-column>
+                <mj-text color="#444444" font-family="Arial, sans-serif" font-size="12px" line-height="21.25px">
+                    iKhokha, 3rd Floor Ridgeview Building, 1 Nokwe Avenue, Umhlanga Ridge, KZN 4319<br>
+                    <a href="#" style="color:#00a4bd, font-family: Helvetica,Arial,sans-serif;">Manage preferences</a>
+
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
