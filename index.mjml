@@ -1,6 +1,6 @@
-<mjml>
+<mjml owa="desktop" lang="en">
     <mj-head>
-        <mj-title></mj-title>
+        <mj-title>ikhokha clone email</mj-title>
         <mj-breakpoint width="640px" />
         <mj-attributes>
             <mj-section padding="0" background-color="#242729"/>
@@ -37,7 +37,7 @@
                 <mj-text font-size="18px" line-height="150%">
                     You’re already getting bombarded with Black Friday emails.<br>So, we’ll keep it short and sweet:<br><br><b>Get our fastest, smartest card machine for only R1549</b> – the lowest price ever for the iK Flyer. But hurry: there are <b>only 100 on sale!</b>
                 </mj-text>
-                <mj-button padding="25px 0 15px 0" background-color="#ffcd00" font-size="15px" font-weight="bold" color="#000" border-radius="16px" inner-padding="15px 25px">
+                <mj-button href="#" padding="25px 0 15px 0" background-color="#ffcd00" font-size="15px" font-weight="bold" color="#000" border-radius="16px" inner-padding="15px 25px">
                     Claim your discount
                 </mj-button>
             </mj-column>
@@ -55,7 +55,7 @@
                     <b>Prefer doing it yourself?</b><br>
                     Use the code below to claim your deal on our site & watch your price drop at checkout.
                 </mj-text>
-                <mj-button line-height="34px" href="https://www.ikhokha.com/shop/card-machines/ik-flyer-promo?BlackFridayMailer%3Futm_source=black%20friday&utm_campaign=iK%20Black%20Flyday%202022&utm_source=hs_email&utm_medium=email" border="2px dashed #ffcd00" background-color="#242729" font-size="30px" inner-padding="15px 20px" font-weight="bold" border-radius="0" font-family="Arial, sans-serif" padding-bottom="25px">
+                <mj-button line-height="34px" href="#" border="2px dashed #ffcd00" background-color="#242729" font-size="30px" inner-padding="15px 20px" font-weight="bold" border-radius="0" font-family="Arial, sans-serif" padding-bottom="25px">
                     BlackFriday22
                 </mj-button>
                 <mj-button padding-bottom="15px" padding-top="5px" color="#000" font-weight="bold" border-radius="16px" line-height="17px" font-size="15px" inner-padding="15px 25px" background-color="#ffcd00" href="https://www.ikhokha.com/shop/card-machines/ik-flyer-promo?BlackFridayMailer%3Futm_source=black%20friday&utm_campaign=iK%20Black%20Flyday%202022&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--YkfkeNLPawKytzIPOtWcnOP60eZy7F8CCS-iPBto_CQFo1SGOUFbcWgauLXkcPH82YUBc">
